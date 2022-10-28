@@ -770,6 +770,14 @@
             </listitem>
           </varlistentry>
           <varlistentry>
+            <term><option>--mklocaluser</option></term>
+            <listitem>
+              <para>
+                Enable/Disable pam_mklocaluser via pam_python.so
+              </para>
+            </listitem>
+          </varlistentry>
+          <varlistentry>
             <term><option>--mktemp</option></term>
             <listitem>
               <para>
